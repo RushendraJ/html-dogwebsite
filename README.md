@@ -81,3 +81,4 @@ Unlimited Matches & Messages
 Unlimited App Usage
 
 author - Rushendra
+added new features
